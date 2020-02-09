@@ -13,8 +13,7 @@
     "express-winston": "^3.1.0",
     "fs-extra": "^7.0.1",
     "node-fetch": "^2.3.0",
-    "winston": "^3.2.1",
-    "snyk": "^1.290.2"
+    "winston": "^3.2.1"
   },
   "devDependencies": {
     "@types/cors": "^2.8.4",
@@ -44,9 +43,7 @@
     "start-dev": "ts-node src/index.ts",
     "build": "tsc && chmod +x lib/index.js",
     "lint": "eslint --ext .ts ./src",
-    "test": "npm run lint && NODE_ENV=test nyc node ./test/test.ts",
-    "snyk-protect": "snyk protect",
-    "prepare": "npm run snyk-protect"
+    "test": "npm run lint && NODE_ENV=test nyc node ./test/test.ts"
   },
   "repository": {
     "type": "git",
@@ -76,6 +73,5 @@
       "text",
       "lcov"
     ]
-  },
-  "snyk": true
+  }
 }
