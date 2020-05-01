@@ -40,7 +40,7 @@
     "express": "^4.16.4",
     "express-winston": "^3.1.0",
     "winston": "^3.2.1",
-    "snyk": "^1.290.2"
+    "snyk": "^1.316.1"
   },
   "devDependencies": {
     "@babel/cli": "^7.2.3",
