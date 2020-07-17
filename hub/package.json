@@ -9,7 +9,7 @@
   "dependencies": {
     "@azure/storage-blob": "^10.3.0",
     "@google-cloud/storage": "^3.0.0",
-    "ajv": "^6.10.0",
+    "ajv": "^6.12.3",
     "aws-sdk": "^2.482.0",
     "bitcoinjs-lib": "^5.1.2",
     "blockstack": "^19.2.2",
