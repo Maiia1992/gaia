@@ -33,7 +33,7 @@
     "url": "https://github.com/blockstack/gaia"
   },
   "dependencies": {
-    "ajv": "^6.9.2",
+    "ajv": "^6.12.3",
     "body-parser": "^1.18.3",
     "cors": "^2.8.5",
     "cross-fetch": "^3.0.1",
