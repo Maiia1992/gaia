@@ -7,7 +7,7 @@
     "node": ">=10"
   },
   "dependencies": {
-    "@azure/storage-blob": "^10.3.0",
+    "@azure/storage-blob": "^10.4.0",
     "@google-cloud/storage": "^3.0.0",
     "ajv": "^6.10.0",
     "aws-sdk": "^2.482.0",
@@ -20,7 +20,7 @@
     "fs-extra": "^8.1.0",
     "jsontokens": "^2.0.2",
     "lru-cache": "^5.1.1",
-    "nanoid": "^2.0.3",
+    "nanoid": "^3.1.31",
     "node-fetch": "^2.6.0",
     "winston": "^3.2.1",
     "snyk": "^1.290.2"
